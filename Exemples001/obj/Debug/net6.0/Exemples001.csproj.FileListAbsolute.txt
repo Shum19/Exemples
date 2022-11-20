@@ -1,0 +1,15 @@
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/bin/Debug/net6.0/Exemples001
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/bin/Debug/net6.0/Exemples001.deps.json
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/bin/Debug/net6.0/Exemples001.runtimeconfig.json
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/bin/Debug/net6.0/Exemples001.dll
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/bin/Debug/net6.0/Exemples001.pdb
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.csproj.AssemblyReference.cache
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.AssemblyInfoInputs.cache
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.AssemblyInfo.cs
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.csproj.CoreCompileInputs.cache
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.dll
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/refint/Exemples001.dll
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.pdb
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/Exemples001.genruntimeconfig.cache
+/Users/Mikle/Downloads/GeekBrains/Знакомство с языками программирования (лекции)/Урок 1. Знакомство с языком программирования C#/Examples/Exemples001/obj/Debug/net6.0/ref/Exemples001.dll
